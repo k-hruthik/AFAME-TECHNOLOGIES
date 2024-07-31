@@ -25,7 +25,7 @@ Follow these steps to install the project:
 1. **Clone the repository:**
 
    ```bash
-   https://github.com/k-hruthik/AFAME-TECHNOLOGIES/blob/main/Credit_Card_Transactions_Fraud_Detection.ipynb
+    git clone https://github.com/k-hruthik/AFAME-TECHNOLOGIES/blob/main/Credit_Card_Transactions_Fraud_Detection.ipynb
    ```
 
 2. **Navigate to the repository directory:**
