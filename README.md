@@ -43,7 +43,7 @@ Follow these steps to install the project:
 
 #### 📊 Graphical Representation
 
-<img src="https://github.com/kamlesh-IY9/Credit-Card-Transactions-Fraud-Detection-by-Afame-Technologies/assets/130460575/201c51a3-0f38-42c2-a436-17b615708e92" width="900">
+<img src="https://github.com/k-hruthik/AFAME-TECHNOLOGIES/blob/main/img/1.png" width="900">
 <img src="https://github.com/kamlesh-IY9/Credit-Card-Transactions-Fraud-Detection-by-Afame-Technologies/assets/130460575/56392435-da7c-4298-95bb-7d12339c7c8e" width="900">
 <img src="https://github.com/kamlesh-IY9/Credit-Card-Transactions-Fraud-Detection-by-Afame-Technologies/assets/130460575/480c888b-4736-41d3-8175-670f39c9e602" width="900">
 <img src="https://github.com/kamlesh-IY9/Credit-Card-Transactions-Fraud-Detection-by-Afame-Technologies/assets/130460575/f1fdc24d-c2c9-41f2-807c-8ef38c49ae19" width="900">
