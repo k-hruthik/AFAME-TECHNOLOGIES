@@ -25,7 +25,7 @@ Follow these steps to install the project:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/kamlesh-IY9/Credit-Card-Transactions-Fraud-Detection-by-Afame-Technologies.git
+   https://github.com/k-hruthik/AFAME-TECHNOLOGIES/blob/main/Credit_Card_Transactions_Fraud_Detection.ipynb
    ```
 
 2. **Navigate to the repository directory:**
@@ -52,13 +52,9 @@ Follow these steps to install the project:
 
 We welcome contributions from the community to enhance our fraud detection solution. Whether it's ideas for improvements, bug fixes, or new features, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE), allowing you to freely use, modify, and distribute the code, with no warranties or liabilities.
-
 ## Contact
 
-Got questions, suggestions, or interested in collaborating? Reach out to us at kamleshpiy9@gmail.com. We're eager to connect with fellow enthusiasts and experts in the field of fraud detection!
+Got questions, suggestions, or interested in collaborating? Reach out to us at hruthikthebest@gmail.com. We're eager to connect with fellow enthusiasts and experts in the field of fraud detection!
 
 ---
 
