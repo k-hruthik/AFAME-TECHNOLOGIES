@@ -4,7 +4,7 @@ Welcome to our Credit Card Fraud Detection project! In today's digital world, sa
 
 ## Getting Started
 
-🔗 **[Dataset Link](https://www.kaggle.com/datasets/kartik2112/fraud-detection)**
+🔗 **[Dataset Link](https://drive.google.com/drive/folders/1sDzIPjCmNZ9lWaXfcAqIIx4NZchYG4OP)**
 
 Access the Kaggle dataset for Credit Card Transactions Fraud Detection.
 
