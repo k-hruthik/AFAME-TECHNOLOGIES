@@ -8,10 +8,6 @@ Welcome to our Credit Card Fraud Detection project! In today's digital world, sa
 
 Access the Kaggle dataset for Credit Card Transactions Fraud Detection.
 
-### About the Dataset
-
-This dataset contains simulated credit card transactions, including both legitimate and fraudulent transactions occurring from January 1st, 2019, to December 31st, 2020. It covers transactions involving credit cards from 1000 customers and interactions with 800 merchants. The dataset was generated using the [Sparkov Data Generation](https://github.com/brandon-rhodes/sparkov-data-gen) tool created by Brandon Harris.
-
 ### Requirements
 
 Ensure you have the following libraries installed:
